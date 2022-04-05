@@ -1,0 +1,93 @@
+12:46:21.018 [main] INFO  resources.Base - Driver is initialized
+12:46:29.723 [main] INFO  resources.Base - Navigated to home page of amazon.com
+12:46:30.567 [main] INFO  resources.Base - Handled the address pop-up
+12:46:30.589 [main] INFO  resources.Base - Got the title of the page
+12:46:36.000 [main] INFO  resources.Base - Clicked on get today deals
+12:46:36.321 [main] INFO  resources.Base - Exited the browser
+12:46:38.089 [main] INFO  resources.Base - Driver is initialized
+12:46:44.554 [main] INFO  resources.Base - Navigated to today's deals page
+12:46:44.824 [main] INFO  resources.Base - Handled the address pop-up
+12:46:46.166 [main] INFO  resources.Base - Clicked on grocery
+12:46:46.168 [main] INFO  resources.Base - Waited for 2 secs
+12:46:46.349 [main] INFO  resources.Base - Exited the browser
+12:46:47.386 [main] INFO  resources.Base - Driver is initialized
+12:46:56.402 [main] INFO  resources.Base - Navigated to home page
+12:46:57.079 [main] INFO  resources.Base - Handled the pop-up
+12:46:57.159 [main] INFO  resources.Base - Failing this test deliberately to test the functionality of ScreenshotOnFailure
+12:46:57.285 [main] INFO  resources.Base - Exited the browser
+12:48:47.927 [main] INFO  resources.Base - Driver is initialized
+12:48:54.305 [main] INFO  resources.Base - Navigated to home page of amazon.com
+12:48:54.832 [main] INFO  resources.Base - Handled the address pop-up
+12:48:54.843 [main] INFO  resources.Base - Got the title of the page
+12:48:58.899 [main] INFO  resources.Base - Clicked on get today deals
+12:48:59.167 [main] INFO  resources.Base - Exited the browser
+12:49:00.866 [main] INFO  resources.Base - Driver is initialized
+12:49:06.664 [main] INFO  resources.Base - Navigated to today's deals page
+12:49:06.926 [main] INFO  resources.Base - Handled the address pop-up
+12:49:07.676 [main] INFO  resources.Base - Clicked on grocery
+12:49:07.678 [main] INFO  resources.Base - Waited for 2 secs
+12:49:07.971 [main] INFO  resources.Base - Exited the browser
+12:49:09.036 [main] INFO  resources.Base - Driver is initialized
+12:49:23.161 [main] INFO  resources.Base - Navigated to home page
+12:49:23.822 [main] INFO  resources.Base - Handled the pop-up
+12:49:23.892 [main] INFO  resources.Base - Failing this test deliberately to test the functionality of ScreenshotOnFailure
+12:49:24.067 [main] INFO  resources.Base - Exited the browser
+12:52:59.943 [main] INFO  resources.Base - Driver is initialized
+12:53:08.624 [main] INFO  resources.Base - Navigated to home page of amazon.com
+12:53:09.236 [main] INFO  resources.Base - Handled the address pop-up
+12:53:09.286 [main] INFO  resources.Base - Got the title of the page
+12:53:15.764 [main] INFO  resources.Base - Clicked on get today deals
+12:53:16.070 [main] INFO  resources.Base - Exited the browser
+12:53:17.615 [main] INFO  resources.Base - Driver is initialized
+12:53:24.381 [main] INFO  resources.Base - Navigated to today's deals page
+12:53:24.644 [main] INFO  resources.Base - Handled the address pop-up
+12:53:25.371 [main] INFO  resources.Base - Clicked on grocery
+12:53:25.373 [main] INFO  resources.Base - Waited for 2 secs
+12:53:25.616 [main] INFO  resources.Base - Exited the browser
+12:53:26.657 [main] INFO  resources.Base - Driver is initialized
+12:53:35.959 [main] INFO  resources.Base - Navigated to home page
+12:53:42.742 [main] INFO  resources.Base - Exited the browser
+13:54:55.698 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+13:54:55.696 [TestNG-tests-3] INFO  resources.Base - Driver is initialized
+13:54:55.711 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+13:55:22.018 [TestNG-tests-1] INFO  resources.Base - Navigated to home page of amazon.com
+13:55:23.280 [TestNG-tests-1] INFO  resources.Base - Handled the address pop-up
+13:55:23.316 [TestNG-tests-1] INFO  resources.Base - Got the title of the page
+13:55:31.451 [TestNG-tests-2] INFO  resources.Base - Navigated to today's deals page
+13:55:32.027 [TestNG-tests-2] INFO  resources.Base - Handled the address pop-up
+13:55:34.946 [TestNG-tests-2] INFO  resources.Base - Clicked on grocery
+13:55:34.948 [TestNG-tests-2] INFO  resources.Base - Waited for 2 secs
+13:55:36.121 [TestNG-tests-2] INFO  resources.Base - Exited the browser
+13:55:40.398 [TestNG-tests-3] INFO  resources.Base - Navigated to home page
+13:55:42.109 [TestNG-tests-3] INFO  resources.Base - Handled the pop-up
+13:55:43.295 [TestNG-tests-3] INFO  resources.Base - Exited the browser
+13:55:46.859 [TestNG-tests-1] INFO  resources.Base - Clicked on get today deals
+13:55:47.214 [TestNG-tests-1] INFO  resources.Base - Exited the browser
+17:18:49.505 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+17:18:49.521 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+17:18:49.503 [TestNG-tests-3] INFO  resources.Base - Driver is initialized
+17:19:08.817 [TestNG-tests-3] INFO  resources.Base - Navigated to home page
+17:19:09.551 [TestNG-tests-2] INFO  resources.Base - Navigated to today's deals page
+17:19:12.117 [TestNG-tests-1] INFO  resources.Base - Navigated to home page of amazon.com
+17:19:13.150 [TestNG-tests-1] INFO  resources.Base - Handled the address pop-up
+17:19:13.171 [TestNG-tests-1] INFO  resources.Base - Got the title of the page
+17:19:16.249 [TestNG-tests-3] INFO  resources.Base - Exited the browser
+17:19:17.596 [TestNG-tests-2] INFO  resources.Base - Exited the browser
+17:19:34.471 [TestNG-tests-1] INFO  resources.Base - Clicked on get today deals
+17:19:34.762 [TestNG-tests-1] INFO  resources.Base - Exited the browser
+17:21:36.350 [TestNG-tests-2] INFO  resources.Base - Driver is initialized
+17:21:36.350 [TestNG-tests-3] INFO  resources.Base - Driver is initialized
+17:21:36.350 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+17:21:52.714 [TestNG-tests-1] INFO  resources.Base - Navigated to home page of amazon.com
+17:21:53.693 [TestNG-tests-1] INFO  resources.Base - Handled the address pop-up
+17:21:53.762 [TestNG-tests-1] INFO  resources.Base - Got the title of the page
+17:21:53.853 [TestNG-tests-3] INFO  resources.Base - Navigated to home page
+17:21:54.820 [TestNG-tests-3] INFO  resources.Base - Handled the pop-up
+17:21:55.981 [TestNG-tests-3] INFO  resources.Base - Exited the browser
+17:22:00.321 [TestNG-tests-2] INFO  resources.Base - Navigated to today's deals page
+17:22:01.473 [TestNG-tests-2] INFO  resources.Base - Handled the address pop-up
+17:22:03.339 [TestNG-tests-2] INFO  resources.Base - Clicked on grocery
+17:22:03.341 [TestNG-tests-2] INFO  resources.Base - Waited for 2 secs
+17:22:03.643 [TestNG-tests-2] INFO  resources.Base - Exited the browser
+17:22:23.107 [TestNG-tests-1] INFO  resources.Base - Clicked on get today deals
+17:22:23.413 [TestNG-tests-1] INFO  resources.Base - Exited the browser

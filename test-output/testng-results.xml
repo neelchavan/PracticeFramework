@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-05T13:54:51 IST" name="Suite" finished-at="2022-04-05T13:55:47 IST" duration-ms="55712">
+    <groups>
+    </groups>
+    <test started-at="2022-04-05T13:54:51 IST" name="TodayDeals" finished-at="2022-04-05T13:55:36 IST" duration-ms="44617">
+      <class name="Academy.PracticeFramework.TodayDealsTest">
+        <test-method is-config="true" signature="initializeChromeDriver()[pri:0, instance:Academy.PracticeFramework.TodayDealsTest@49bd54f7]" started-at="2022-04-05T13:54:51 IST" name="initializeChromeDriver" finished-at="2022-04-05T13:54:55 IST" duration-ms="4200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChromeDriver -->
+        <test-method signature="openGrocery()[pri:0, instance:Academy.PracticeFramework.TodayDealsTest@49bd54f7]" started-at="2022-04-05T13:54:55 IST" name="openGrocery" finished-at="2022-04-05T13:55:34 IST" duration-ms="39183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGrocery -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.PracticeFramework.TodayDealsTest@49bd54f7]" started-at="2022-04-05T13:55:35 IST" name="tearDown" finished-at="2022-04-05T13:55:36 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.PracticeFramework.TodayDealsTest -->
+    </test> <!-- TodayDeals -->
+    <test started-at="2022-04-05T13:54:51 IST" name="VerifyingSellText" finished-at="2022-04-05T13:55:43 IST" duration-ms="51782">
+      <class name="Academy.PracticeFramework.VerifySellText">
+        <test-method is-config="true" signature="initializeChromeDriver()[pri:0, instance:Academy.PracticeFramework.VerifySellText@71652c98]" started-at="2022-04-05T13:54:51 IST" name="initializeChromeDriver" finished-at="2022-04-05T13:54:55 IST" duration-ms="4199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChromeDriver -->
+        <test-method signature="verifyingSellText()[pri:0, instance:Academy.PracticeFramework.VerifySellText@71652c98]" started-at="2022-04-05T13:54:55 IST" name="verifyingSellText" finished-at="2022-04-05T13:55:42 IST" duration-ms="46516" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [sell] but found [Sell]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [sell] but found [Sell]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at Academy.PracticeFramework.VerifySellText.verifyingSellText(VerifySellText.java:35)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:32)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:467)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:831)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingSellText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.PracticeFramework.VerifySellText@71652c98]" started-at="2022-04-05T13:55:43 IST" name="tearDown" finished-at="2022-04-05T13:55:43 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.PracticeFramework.VerifySellText -->
+    </test> <!-- VerifyingSellText -->
+    <test started-at="2022-04-05T13:54:51 IST" name="AmazonHome" finished-at="2022-04-05T13:55:47 IST" duration-ms="55712">
+      <class name="Academy.PracticeFramework.AmazonHomeTest">
+        <test-method is-config="true" signature="initializeChromeDriver()[pri:0, instance:Academy.PracticeFramework.AmazonHomeTest@54a3ab8f]" started-at="2022-04-05T13:54:51 IST" name="initializeChromeDriver" finished-at="2022-04-05T13:54:55 IST" duration-ms="4204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeChromeDriver -->
+        <test-method signature="openTodayDeals()[pri:0, instance:Academy.PracticeFramework.AmazonHomeTest@54a3ab8f]" started-at="2022-04-05T13:54:55 IST" name="openTodayDeals" finished-at="2022-04-05T13:55:46 IST" duration-ms="51094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTodayDeals -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.PracticeFramework.AmazonHomeTest@54a3ab8f]" started-at="2022-04-05T13:55:46 IST" name="tearDown" finished-at="2022-04-05T13:55:47 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.PracticeFramework.AmazonHomeTest -->
+    </test> <!-- AmazonHome -->
+  </suite> <!-- Suite -->
+</testng-results>
